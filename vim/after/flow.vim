@@ -1,6 +1,9 @@
 " Vim syntax file
 " Language: flow
 " Maintainer: ianzhou
+"
+" add next line to .vimrc
+" au BufRead,BufNewFile *.flow set filetype=flow
 
 syn match fFunc "\w\+\s*(\@="
 syn match fComment +\/\/.*\w*$+
