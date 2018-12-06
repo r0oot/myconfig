@@ -67,8 +67,8 @@ set ignorecase "检索时忽略大小写
 set hls "检索时高亮显示匹配项
 set helplang=cn "帮助系统设置为中文
 set foldmethod=syntax "代码折叠
-set cursorline   "显示光标所在行
-set cursorcolumn   "显示光标所在列
+"set cursorline   "显示光标所在行
+"set cursorcolumn   "显示光标所在列
 let mapleader = ","
 set cc=80
 
